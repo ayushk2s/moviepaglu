@@ -39,7 +39,7 @@ MoviePaglu organizes content beautifully across genres and formats for easy disc
 
 ## 🖼️ Screenshots
 
-|----------|------------------|-----------|-------------|
+
 | ![PHOTO-2025-10-25-17-34-20](https://github.com/user-attachments/assets/9b84550a-3bba-4fa7-9540-449c1dae85e5)
  | <img width="1470" height="956" alt="Screenshot 2025-10-25 at 5 35 50 PM" src="https://github.com/user-attachments/assets/74e68f5a-dd7d-4826-8470-ac4e0493410e" />
  | <img width="1470" height="956" alt="Screenshot 2025-10-25 at 5 36 24 PM" src="https://github.com/user-attachments/assets/5bb9dfa1-2486-4757-8321-c45428e774e5" /> 
@@ -108,4 +108,5 @@ Your support helps me improve and keep it open-source ❤️
 
 
 Contributions, ideas, and pull requests are always welcome!
+
 
