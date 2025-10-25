@@ -1,6 +1,8 @@
 # 🎬 MoviePaglu — Stream & Download Movies Anywhere
 
-![MoviePaglu Banner](screenshots/banner.png)
+
+<img width="512" height="512" alt="Icon-maskable-512" src="https://github.com/user-attachments/assets/b85c4113-1735-424a-8dec-fd52712236f2" />
+
 
 > **MoviePaglu** is a powerful and elegant Flutter-based movie streaming and downloading application — designed to bring entertainment directly to your fingertips.  
 > Hosted live at 👉 [https://moviepaglu.vercel.app](https://moviepaglu.vercel.app/)
@@ -95,5 +97,6 @@ flutter run
 If you like MoviePaglu, please consider giving it a ⭐ on GitHub
  —
 Your support helps me improve and keep it open-source ❤️
+
 
 Contributions, ideas, and pull requests are always welcome!
